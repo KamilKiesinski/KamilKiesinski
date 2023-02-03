@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Witaj na moim profilu, nazywam się **Kamil Kiesiński**.
+Zacząłem naukę programowania i do końca roku 2023 zamierzam dostać pierwszą pracę jako **Junior Frontend Developer**.
+
+Lista do opanowania:
+
+ - [ ] HTML
+ - [ ] CSS
+ - [ ] Java Script
+ - [ ] React
 <!--
 **KamilKiesinski/KamilKiesinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
